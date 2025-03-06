@@ -1,0 +1,14 @@
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

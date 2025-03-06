@@ -12,3 +12,4 @@
 /Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
 /Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
 /Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
+/Users/yutamabudiman/Developer/Yutama/Learning/Udemy/c.sharp-fundamentals/c.sharp-first/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
